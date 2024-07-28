@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sangstor.github.io/sitemap.html.gz
+Sitemap: https://sangstor.github.io/app/sitemap.html.gz
+Sitemap: https://sangstor.github.io/assets/sitemap.html.gz
+Sitemap: https://sangstor.github.io/css/sitemap.html.gz
+Sitemap: https://sangstor.github.io/includes/sitemap.html.gz
+Sitemap: https://sangstor.github.io/item/sitemap.html.gz
+Sitemap: https://sangstor.github.io/src/sitemap.html.gz
